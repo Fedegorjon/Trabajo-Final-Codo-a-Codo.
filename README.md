@@ -27,9 +27,7 @@
 >
 
 
-## **Detalles tecnicos**
 
-Se publica automaticamente en *[akshu.ar](https://akshu.ar)* luego de cada commit a develop, tarda alrededor de 4 segundos en desplegar.
 
 <table>
   <tr>
