@@ -1,0 +1,43 @@
+#idcontacto{
+  padding: 20px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 40px;
+}
+
+#idformulario {
+  padding: 20px 20px;
+}
+
+#idformcontacto{
+  display: flex;
+  align-items: space-around;
+  justify-content: space-around;
+  flex-direction: column;
+  gap: 20px;
+}
+
+#idinfocontacto{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+#idcontainermensaje {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+}
+
+#idinfo{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  font-weight: bold;
+}
+
+#mensaje{
+  height: 50px;
+}
