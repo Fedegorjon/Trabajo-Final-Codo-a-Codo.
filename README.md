@@ -17,16 +17,13 @@
 
 ## **Integrantes**
 
-> ### **LUNA ARECHA, Julian Ismael** *(Representante)*
+> ### **Federico Gorjon*
 >
-> - Usuario GitHub: julian.arecha@gmail.com
-> - Link de Github: <https://github.com/julianismaellunaarecha>
+> - Usuario GitHub: federicogorjon@yahoo.com.ar
+> 
 >
 
-> ### **PONCE, Viviana Mercedes**
->
-> - Usuario GitHub: vivianaponce@gmail.com
-> - Link de Github: <https://github.com/vmponce>
+
 >
 
 
